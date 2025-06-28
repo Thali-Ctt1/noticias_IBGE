@@ -1,0 +1,29 @@
+{
+  "nome": "Thali",
+  "favoritos": [
+    {
+      "id": "43751",
+      "titulo": "Em Brasília, IBGE divulgará resultados de fecundidade e migração do Censo Demográfico 2022",
+      "introducao": "O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgará, no dia 27 de junho, às 10h, em Brasília (DF), o Censo Demográfico 2022: Fecundidade e migração: Resultados preliminares da amostra. O evento ocorrerá no Auditório do Instituto de Química...",
+      "link": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/43751-em-brasilia-ibge-divulgara-resultados-de-fecundidade-e-migracao-do-censo-demografico-2022.html",
+      "tipo": "Notícia"
+    },
+    {
+      "id": "43647",
+      "titulo": "Abates de bovinos, suínos e frangos registram melhor 1° trimestre da série histórica",
+      "introducao": "Comparado ao mesmo período do ano anterior, abate de bovinos, suínos e frangos registram alta. - Foto: Licia Rubinstein/Agência IBGE Notícias No 1° Trimestre de 2025, o abate de 9,87 milhões de cabeças de bovinos significou alta de 4,6% em comparação ao...",
+      "link": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/43647-abates-de-bovinos-suinos-e-frangos-registram-melhor-1-trimestre-da-serie-historica.html",
+      "tipo": "Notícia"
+    }
+  ],
+  "lidas": [
+    {
+      "id": "43647",
+      "titulo": "Abates de bovinos, suínos e frangos registram melhor 1° trimestre da série histórica",
+      "introducao": "Comparado ao mesmo período do ano anterior, abate de bovinos, suínos e frangos registram alta. - Foto: Licia Rubinstein/Agência IBGE Notícias No 1° Trimestre de 2025, o abate de 9,87 milhões de cabeças de bovinos significou alta de 4,6% em comparação ao...",
+      "link": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/43647-abates-de-bovinos-suinos-e-frangos-registram-melhor-1-trimestre-da-serie-historica.html",
+      "tipo": "Notícia"
+    }
+  ],
+  "paraLerDepois": []
+}
